@@ -14,6 +14,7 @@ function App() {
 
   return (
     <div className="">
+      
         <Header/>
         
         <Slider/>
@@ -21,6 +22,7 @@ function App() {
         <ProductionHouse/>
 
         <GenreMovieList/>
+      
     </div>
   )
 }
